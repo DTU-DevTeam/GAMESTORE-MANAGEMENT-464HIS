@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|d:\\cmu-cs 464 his\\qlykhachhang\\qlykhachhang\\frm_taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|solutionrelative:qlykhachhang\\frm_taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|d:\\cmu-cs 464 his\\qlykhachhang\\qlykhachhang\\frm_taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|solutionrelative:qlykhachhang\\frm_taotaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|d:\\cmu-cs 464 his\\qlykhachhang\\qlykhachhang\\frm_themgiochoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|solutionrelative:qlykhachhang\\frm_themgiochoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|d:\\cmu-cs 464 his\\qlykhachhang\\qlykhachhang\\frm_themgiochoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|solutionrelative:qlykhachhang\\frm_themgiochoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|d:\\cmu-cs 464 his\\qlykhachhang\\qlykhachhang\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|solutionrelative:qlykhachhang\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|d:\\cmu-cs 464 his\\qlykhachhang\\qlykhachhang\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|solutionrelative:qlykhachhang\\frm_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|d:\\cmu-cs 464 his\\qlykhachhang\\qlykhachhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9DDE2A-AFE3-4BFB-9B56-36CF12247F65}|QLyKhachHang\\QLyKhachHang.csproj|solutionrelative:qlykhachhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\Program.cs",
+              "RelativeDocumentMoniker": "QLyKhachHang\\Program.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\Program.cs",
+              "RelativeToolTip": "QLyKhachHang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:53:00.097Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_ThemGioChoi.cs",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_ThemGioChoi.cs",
+              "RelativeDocumentMoniker": "QLyKhachHang\\frm_ThemGioChoi.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_ThemGioChoi.cs",
+              "RelativeToolTip": "QLyKhachHang\\frm_ThemGioChoi.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:54:52.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_TaoTaiKhoan.cs",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_TaoTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QLyKhachHang\\frm_TaoTaiKhoan.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_TaoTaiKhoan.cs",
+              "RelativeToolTip": "QLyKhachHang\\frm_TaoTaiKhoan.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAANoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:54:13.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_TaoTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_TaoTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QLyKhachHang\\frm_TaoTaiKhoan.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_TaoTaiKhoan.cs [Design]",
+              "RelativeToolTip": "QLyKhachHang\\frm_TaoTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:44:18.458Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_ThemGioChoi.cs [Design]",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_ThemGioChoi.cs",
+              "RelativeDocumentMoniker": "QLyKhachHang\\frm_ThemGioChoi.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_ThemGioChoi.cs [Design]",
+              "RelativeToolTip": "QLyKhachHang\\frm_ThemGioChoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:44:19.056Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_KhachHang.cs",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_KhachHang.cs",
+              "RelativeDocumentMoniker": "QLyKhachHang\\frm_KhachHang.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_KhachHang.cs",
+              "RelativeToolTip": "QLyKhachHang\\frm_KhachHang.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAIwFMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:47:16.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_KhachHang.cs",
+              "RelativeDocumentMoniker": "QLyKhachHang\\frm_KhachHang.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QLyKhachHang\\QLyKhachHang\\frm_KhachHang.cs [Design]",
+              "RelativeToolTip": "QLyKhachHang\\frm_KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:44:17.769Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

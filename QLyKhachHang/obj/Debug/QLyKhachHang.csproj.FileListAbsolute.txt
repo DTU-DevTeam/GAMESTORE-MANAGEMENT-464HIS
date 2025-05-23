@@ -1,0 +1,15 @@
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\bin\Debug\QLyKhachHang.exe.config
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\bin\Debug\QLyKhachHang.exe
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\bin\Debug\QLyKhachHang.pdb
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\obj\Debug\QLyKhachHang.csproj.AssemblyReference.cache
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\obj\Debug\QLyKhachHang.frm_KhachHang.resources
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\obj\Debug\QLyKhachHang.Properties.Resources.resources
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\obj\Debug\QLyKhachHang.csproj.GenerateResource.cache
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\obj\Debug\QLyKhachHang.csproj.CoreCompileInputs.cache
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\obj\Debug\QLyKhachHang.exe
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\obj\Debug\QLyKhachHang.pdb
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\obj\Debug\QLyKhachHang.frm_TaoTaiKhoan.resources
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\bin\Debug\USER.mdf
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\bin\Debug\USER_log.ldf
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\obj\Debug\QLyKhachHang.frm_ThemGioChoi.resources
+D:\CMU-CS 464 HIS\QLyKhachHang\QLyKhachHang\bin\Debug\Picture\RobotCity_Stadium_Logo.png
