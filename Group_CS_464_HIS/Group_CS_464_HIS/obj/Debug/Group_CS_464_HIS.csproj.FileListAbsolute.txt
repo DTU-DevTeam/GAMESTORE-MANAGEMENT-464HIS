@@ -1,0 +1,16 @@
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\bin\Debug\Group_CS_464_HIS.exe.config
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\bin\Debug\Group_CS_464_HIS.exe
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\bin\Debug\Group_CS_464_HIS.pdb
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.csproj.AssemblyReference.cache
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.Form1.resources
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.Properties.Resources.resources
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.csproj.GenerateResource.cache
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.csproj.CoreCompileInputs.cache
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.exe
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.pdb
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.exe.config
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\bin\Debug\GROUP.mdf
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\bin\Debug\GROUP_log.ldf
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.frm_DoanhThu.resources
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.frm_DichVu.resources
+D:\DTU\Semester_2_2024_2025\CS 464_ Lập trình ứng dụng. NET\Group_CS_464_HIS\Group_CS_464_HIS\obj\Debug\Group_CS_464_HIS.frm_KhuyenMai.resources
