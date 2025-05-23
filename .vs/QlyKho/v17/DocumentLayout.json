@@ -3,41 +3,38 @@
   "WorkspaceRootPath": "D:\\CMU-CS 464 HIS\\QlyKho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\frm_xemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_xemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\frm_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\frm_xemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_xemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\frm_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.PHIEUNHAP.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.SANPHAM.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.PHIEUNHAP.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.CHITIETPHIEUNHAP.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|d:\\cmu-cs 464 his\\qlykho\\qlykho\\frm_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\frm_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|d:\\cmu-cs 464 his\\qlykho\\qlykho\\frm_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\frm_xemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_xemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\frm_xemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_xemchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\frm_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_phieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|d:\\cmu-cs 464 his\\qlykho\\qlykho\\frm_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|d:\\cmu-cs 464 his\\qlykho\\qlykho\\frm_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|solutionrelative:qlykho\\frm_kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65D55F09-05B0-48CC-9820-D7FF17183001}|QlyKho\\QlyKho.csproj|D:\\CMU-CS 464 HIS\\QlyKho\\qlykho\\lopdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,7 +48,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 89,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -61,7 +58,7 @@
               "RelativeDocumentMoniker": "QlyKho\\Program.cs",
               "ToolTip": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\Program.cs",
               "RelativeToolTip": "QlyKho\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T07:18:46.403Z",
               "IsPinned": true,
@@ -77,87 +74,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.PHIEUNHAP [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.PHIEUNHAP.sql",
-              "ToolTip": "dbo.PHIEUNHAP [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-22T18:30:37.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frm_XemChiTiet.cs [Design]",
-              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_XemChiTiet.cs",
-              "RelativeDocumentMoniker": "QlyKho\\frm_XemChiTiet.cs",
-              "ToolTip": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_XemChiTiet.cs [Design]",
-              "RelativeToolTip": "QlyKho\\frm_XemChiTiet.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T08:45:54.788Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frm_XemChiTiet.cs",
-              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_XemChiTiet.cs",
-              "RelativeDocumentMoniker": "QlyKho\\frm_XemChiTiet.cs",
-              "ToolTip": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_XemChiTiet.cs",
-              "RelativeToolTip": "QlyKho\\frm_XemChiTiet.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwDQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T09:15:16.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.SANPHAM [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.SANPHAM.sql",
-              "ToolTip": "dbo.SANPHAM [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-22T18:30:41.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "dbo.CHITIETPHIEUNHAP [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.CHITIETPHIEUNHAP.sql",
-              "ToolTip": "dbo.CHITIETPHIEUNHAP [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-22T16:03:02.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "frm_PhieuNhapKho.cs [Design]",
               "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_PhieuNhapKho.cs",
               "RelativeDocumentMoniker": "QlyKho\\frm_PhieuNhapKho.cs",
               "ToolTip": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_PhieuNhapKho.cs [Design]",
               "RelativeToolTip": "QlyKho\\frm_PhieuNhapKho.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T17:48:14.684Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-22T17:48:14.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frm_PhieuNhapKho.cs",
-              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_PhieuNhapKho.cs",
-              "RelativeDocumentMoniker": "QlyKho\\frm_PhieuNhapKho.cs",
-              "ToolTip": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_PhieuNhapKho.cs",
-              "RelativeToolTip": "QlyKho\\frm_PhieuNhapKho.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAwwM0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T17:44:16.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "frm_Kho.cs [Design]",
               "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_Kho.cs",
               "RelativeDocumentMoniker": "QlyKho\\frm_Kho.cs",
@@ -169,20 +97,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "dbo.PHIEUNHAP.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.PHIEUNHAP.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.PHIEUNHAP.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-23T05:10:15.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "frm_Kho.cs",
               "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_Kho.cs",
               "RelativeDocumentMoniker": "QlyKho\\frm_Kho.cs",
               "ToolTip": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_Kho.cs",
               "RelativeToolTip": "QlyKho\\frm_Kho.cs",
-              "ViewState": "AgIAACQBAAAAAAAAAAAowPgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABEBAAAAAAAAAAAiwCUBAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T17:19:26.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "dbo.CHITIETPHIEUNHAP.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.CHITIETPHIEUNHAP.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CMU_CS_464_HIS_QLYKHO_QLYKHO_KHO.MDF/True/SqlTable/dbo.CHITIETPHIEUNHAP.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-23T05:10:12.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_XemChiTiet.cs [Design]",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_XemChiTiet.cs",
+              "RelativeDocumentMoniker": "QlyKho\\frm_XemChiTiet.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_XemChiTiet.cs [Design]",
+              "RelativeToolTip": "QlyKho\\frm_XemChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:45:54.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_XemChiTiet.cs",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_XemChiTiet.cs",
+              "RelativeDocumentMoniker": "QlyKho\\frm_XemChiTiet.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_XemChiTiet.cs",
+              "RelativeToolTip": "QlyKho\\frm_XemChiTiet.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:15:16.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_PhieuNhapKho.cs",
+              "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_PhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "QlyKho\\frm_PhieuNhapKho.cs",
+              "ToolTip": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\frm_PhieuNhapKho.cs",
+              "RelativeToolTip": "QlyKho\\frm_PhieuNhapKho.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAwwM0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:44:16.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LOPDUNGCHUNG.cs",
               "DocumentMoniker": "D:\\CMU-CS 464 HIS\\QlyKho\\QlyKho\\LOPDUNGCHUNG.cs",
               "RelativeDocumentMoniker": "QlyKho\\LOPDUNGCHUNG.cs",
@@ -190,8 +171,7 @@
               "RelativeToolTip": "QlyKho\\LOPDUNGCHUNG.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T09:26:09.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T09:26:09.764Z"
             }
           ]
         }

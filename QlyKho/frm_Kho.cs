@@ -32,6 +32,8 @@ namespace QlyKho
         {
             // Khi form Load, gọi lại dữ liệu lên bảng 
             LoadDataToGrid();
+            this.Activate();
+            this.Focus();
         }
 
         /// <summary>
@@ -282,10 +284,14 @@ namespace QlyKho
                 excelApp.Quit();
 
                 MessageBox.Show("Xuất file Excel thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                this.Activate();
+                this.Focus();
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Lỗi khi xuất file Excel: " + ex.Message);
+                this.Activate();
+                this.Focus();
             }
         }
 
