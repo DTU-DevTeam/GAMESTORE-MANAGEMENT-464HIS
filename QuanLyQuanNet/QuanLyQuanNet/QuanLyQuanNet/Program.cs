@@ -16,7 +16,7 @@ namespace QuanLyQuanNet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_ComputerManager());
+            Application.Run(new Frm_ComputerManager());
         }
     }
 }

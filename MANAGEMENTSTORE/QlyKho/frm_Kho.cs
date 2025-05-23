@@ -13,11 +13,11 @@ using Excel = Microsoft.Office.Interop.Excel;
 
 namespace QlyKho
 {
-    public partial class frm_Kho: Form
+    public partial class Frm_Kho: Form
     {
         // Khai báo lớp dùng chung để truy vấn database
         LOPDUNGCHUNG lopDungChung = new LOPDUNGCHUNG();
-        public frm_Kho()
+        public Frm_Kho()
         {
             InitializeComponent();
             // Áp dụng theme màu cho form
@@ -187,7 +187,7 @@ namespace QlyKho
                 string nhomSanPham = selectedRow.Cells["NhomSanPham"].Value?.ToString();
                 string mucBaoHet = selectedRow.Cells["MucBaoHet"].Value?.ToString();
 
-                frm_XemChiTiet frmChiTiet = new frm_XemChiTiet();
+                Frm_XemChiTiet frmChiTiet = new Frm_XemChiTiet();
 
                 // Truyền tham chiếu form kho vào form chi tiết
                 frmChiTiet.SetParentForm(this);

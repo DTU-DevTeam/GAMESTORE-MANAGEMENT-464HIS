@@ -16,7 +16,7 @@ namespace QlyKho
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_Kho());
+            Application.Run(new Frm_Kho());
         }
     }
 }

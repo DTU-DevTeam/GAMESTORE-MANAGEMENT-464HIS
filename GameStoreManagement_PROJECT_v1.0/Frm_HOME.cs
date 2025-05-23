@@ -163,28 +163,95 @@ namespace GameStoreManagement_PROJECT_v1._0
             }
         }
 
+        private Frm_ComputerManager frmComputerManager = null;
+        private Frm_KhuyenMai khuyenMai = null;
+        private Frm_Kho frmKho = null;
+        private Frm_NhapLieuHD frmNhapLieuHD = null;
+        private Frm_MENU frmMenu = null;
+        private Frm_LICHSU FrmLichSu = null;
+
         private void tìnhTrạngMáyToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frm_ComputerManager frm = new frm_ComputerManager();
-            frm.Show();
+            if (frmComputerManager == null || frmComputerManager.IsDisposed)
+            {
+                frmComputerManager = new Frm_ComputerManager();
+                frmComputerManager.Show();
+            }
+            else
+            {
+                frmComputerManager.BringToFront();
+                frmComputerManager.Focus();
+            }
         }
 
         private void khuyếnMãiToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            KhuyenMai khuyenMai = new KhuyenMai();
-            khuyenMai.Show();
+            if (khuyenMai == null || khuyenMai.IsDisposed)
+            {
+                khuyenMai = new Frm_KhuyenMai();
+                khuyenMai.Show();
+            }
+            else
+            {
+                khuyenMai.BringToFront();
+                khuyenMai.Focus();
+            }
         }
 
         private void khoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frm_Kho frm = new frm_Kho();
-            frm.Show();
+            if (frmKho == null || frmKho.IsDisposed)
+            {
+                frmKho = new Frm_Kho();
+                frmKho.Show();
+            }
+            else
+            {
+                frmKho.BringToFront();
+                frmKho.Focus();
+            }
         }
 
         private void nhânViênToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frm_NhapLieuHD frm = new frm_NhapLieuHD();
-            frm.Show();
+            if (frmNhapLieuHD == null || frmNhapLieuHD.IsDisposed)
+            {
+                frmNhapLieuHD = new Frm_NhapLieuHD();
+                frmNhapLieuHD.Show();
+            }
+            else
+            {
+                frmNhapLieuHD.BringToFront();
+                frmNhapLieuHD.Focus();
+            }
+        }
+
+        private void menuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (frmMenu == null || frmMenu.IsDisposed)
+            {
+                frmMenu = new Frm_MENU();
+                frmMenu.Show();
+            }
+            else
+            {
+                frmMenu.BringToFront();
+                frmMenu.Focus();
+            }
+        }
+
+        private void lịchSửToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (FrmLichSu == null || FrmLichSu.IsDisposed)
+            {
+                FrmLichSu = new Frm_LICHSU();
+                FrmLichSu.Show();
+            }
+            else
+            {
+                FrmLichSu.BringToFront();
+                FrmLichSu.Focus();
+            }
         }
     }
 }

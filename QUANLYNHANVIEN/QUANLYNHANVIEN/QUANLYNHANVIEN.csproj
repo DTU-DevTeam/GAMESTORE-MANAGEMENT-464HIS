@@ -62,17 +62,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frm_NhapLieuHD.cs">
+    <Compile Include="Frm_NhapLieuHD.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frm_NhapLieuHD.Designer.cs">
-      <DependentUpon>frm_NhapLieuHD.cs</DependentUpon>
+    <Compile Include="Frm_NhapLieuHD.Designer.cs">
+      <DependentUpon>Frm_NhapLieuHD.cs</DependentUpon>
     </Compile>
     <Compile Include="lopchung.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frm_NhapLieuHD.resx">
-      <DependentUpon>frm_NhapLieuHD.cs</DependentUpon>
+    <EmbeddedResource Include="Frm_NhapLieuHD.resx">
+      <DependentUpon>Frm_NhapLieuHD.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

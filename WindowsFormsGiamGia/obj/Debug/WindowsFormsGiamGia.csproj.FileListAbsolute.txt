@@ -131,3 +131,19 @@ C:\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsGiamGia
 C:\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsF.471CC7BE.Up2Date
 C:\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsApp1.exe
 C:\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsApp1.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\bin\Debug\QLTiemNet.mdf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\bin\Debug\QLTiemNet_log.ldf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\bin\Debug\WindowsFormsApp1.exe.config
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\bin\Debug\WindowsFormsApp1.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\bin\Debug\WindowsFormsApp1.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsGiamGia.csproj.AssemblyReference.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsGiamGia.csproj.GenerateResource.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsApp1.exe.licenses
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsGiamGia.csproj.CoreCompileInputs.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsF.471CC7BE.Up2Date
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsApp1.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsApp1.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsGiamGia.Frm_KhuyenMai.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsGiamGia.Frm_SuaKhuyenMai.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\WindowsFormsGiamGia\obj\Debug\WindowsFormsGiamGia.Frm_ThemKM.resources

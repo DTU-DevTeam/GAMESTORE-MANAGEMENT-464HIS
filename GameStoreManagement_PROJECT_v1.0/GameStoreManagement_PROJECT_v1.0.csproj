@@ -64,11 +64,23 @@
     <Compile Include="Frm_HOME.Designer.cs">
       <DependentUpon>Frm_HOME.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_LICHSU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_LICHSU.Designer.cs">
+      <DependentUpon>Frm_LICHSU.cs</DependentUpon>
+    </Compile>
     <Compile Include="Frm_LOGIN.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Frm_LOGIN.Designer.cs">
       <DependentUpon>Frm_LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_MENU.Designer.cs">
+      <DependentUpon>Frm_MENU.cs</DependentUpon>
     </Compile>
     <Compile Include="Frm_REGISTER.cs">
       <SubType>Form</SubType>
@@ -81,8 +93,14 @@
     <EmbeddedResource Include="Frm_HOME.resx">
       <DependentUpon>Frm_HOME.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Frm_LICHSU.resx">
+      <DependentUpon>Frm_LICHSU.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Frm_LOGIN.resx">
       <DependentUpon>Frm_LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_MENU.resx">
+      <DependentUpon>Frm_MENU.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_REGISTER.resx">
       <DependentUpon>Frm_REGISTER.cs</DependentUpon>
@@ -140,6 +158,45 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="food\COMMY\bun-bo-hue.png" />
+    <Content Include="food\COMMY\com-rang.png" />
+    <Content Include="food\COMMY\com-suon.png" />
+    <Content Include="food\COMMY\mi-quang.png" />
+    <Content Include="food\COMMY\Mi-xao-gion-hai-san.png" />
+    <Content Include="food\COMMY\pho.png" />
+    <Content Include="food\DOANVAT\banh-mi-que.png" />
+    <Content Include="food\DOANVAT\banh-trang-tron.png" />
+    <Content Include="food\DOANVAT\hat-huong-duong.png" />
+    <Content Include="food\DOANVAT\hat0dieu.png" />
+    <Content Include="food\DOANVAT\images.jpg" />
+    <Content Include="food\DOANVAT\khoai-tay-chien.png" />
+    <Content Include="food\DOANVAT\nem-chua-ran.png" />
+    <Content Include="food\DOANVAT\xuc-xich-chien.png" />
+    <Content Include="food\DUDC\7up.png" />
+    <Content Include="food\DUDC\coca.png" />
+    <Content Include="food\DUDC\Dalatmilk.png" />
+    <Content Include="food\DUDC\nuoc-suoi.png" />
+    <Content Include="food\DUDC\pepsi.png" />
+    <Content Include="food\DUDC\redbull.png" />
+    <Content Include="food\DUDC\th-true-juice.png" />
+    <Content Include="food\DUDC\tra-xanh.png" />
+    <Content Include="food\DUDC\vinamilk.png" />
+    <Content Include="food\DUPC\ca-phe-sua-da.png" />
+    <Content Include="food\DUPC\ca_phe_trung_da.png" />
+    <Content Include="food\DUPC\Chanh-tuyết.png" />
+    <Content Include="food\DUPC\matcha-latte.png" />
+    <Content Include="food\DUPC\nuoc-ep.png" />
+    <Content Include="food\DUPC\sinh-to.png" />
+    <Content Include="food\DUPC\SUA-TUOI.png" />
+    <Content Include="food\DUPC\tra-trai-cay.png" />
+    <Content Include="food\DUPC\tra_sua_tran_chau.png" />
+    <Content Include="food\DUPC\ts-truyenthong.png" />
+    <Content Include="food\THUOCLA\544240.png" />
+    <Content Include="food\THUOCLA\555.png" />
+    <Content Include="food\THUOCLA\esse.png" />
+    <Content Include="food\THUOCLA\Thuoc-la-Thang-long.png" />
+    <Content Include="food\THUOCLA\unnamed.png" />
+    <Content Include="images\search.png" />
     <None Include="images\user.png" />
     <None Include="images\FAVICON_128x128.png" />
     <Content Include="images\Back.png" />
@@ -148,5 +205,6 @@
     <Content Include="images\password.png" />
     <Content Include="images\RobotCity_Stadium_Logo.ico" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

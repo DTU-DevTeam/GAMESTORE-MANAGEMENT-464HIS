@@ -1,6 +1,6 @@
 ﻿namespace QUANLYNHANVIEN
 {
-    partial class frm_NhapLieuHD
+    partial class Frm_NhapLieuHD
     {
         /// <summary>
         /// Required designer variable.

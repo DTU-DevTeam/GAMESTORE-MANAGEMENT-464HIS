@@ -1,6 +1,6 @@
 ﻿namespace QlyKho
 {
-    partial class frm_XemChiTiet
+    partial class Frm_XemChiTiet
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_XemChiTiet));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_XemChiTiet));
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnTat = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();

@@ -11,23 +11,23 @@ using System.Windows.Forms;
 
 namespace QlyKho
 {
-    public partial class frm_XemChiTiet : Form
+    public partial class Frm_XemChiTiet : Form
     {
         private LOPDUNGCHUNG lopDungChung = new LOPDUNGCHUNG();
 
         // Biến lưu tham chiếu tới form Kho để gọi reload dữ liệu khi cần
-        private frm_Kho parentFormKho;
+        private Frm_Kho parentFormKho;
 
         // Biến lưu mã sản phẩm hiện tại đang xem/sửa
         private string currentMaSanPham;
 
         // Thiết lập form cha (form Kho)
-        public void SetParentForm(frm_Kho parent)
+        public void SetParentForm(Frm_Kho parent)
         {
             parentFormKho = parent;
         }
 
-        public frm_XemChiTiet()
+        public Frm_XemChiTiet()
         {
             InitializeComponent();
 

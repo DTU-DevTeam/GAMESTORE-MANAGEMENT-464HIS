@@ -1,6 +1,6 @@
 ﻿namespace Group_CS_464_HIS
 {
-    partial class frm_DoanhThu
+    partial class Frm_DoanhThu
     {
         /// <summary>
         /// Required designer variable.

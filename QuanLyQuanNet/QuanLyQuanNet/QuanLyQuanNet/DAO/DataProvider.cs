@@ -18,7 +18,7 @@ namespace QuanLyQuanNet.DAO
         }
         private DataProvider() { }
 
-        private string connectionSTR = @"Data Source=MSI;Initial Catalog=ROBOTCITYSTADIUM;Integrated Security=True";
+        private string connectionSTR = @"Data Source=.\SQLMINHTUAN;Initial Catalog=ROBOTCITYSTADIUM;Integrated Security=True";
 
         public DataTable ExecuteQuery(string query, object[] parameter = null) 
         {

@@ -16,7 +16,7 @@ namespace WindowsFormsGiamGia
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new KhuyenMai());
+            Application.Run(new Frm_KhuyenMai());
 
            
         }

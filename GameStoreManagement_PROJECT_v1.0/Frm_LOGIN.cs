@@ -33,7 +33,7 @@ namespace GameStoreManagement_PROJECT_v1._0
         ////////
 
         // Kết nối đến SQL Server để lấy dữ liệu tài khoản;
-        string chuoiKetNoiSQL = @"Data Source=MSI;Initial Catalog=ROBOTCITYSTADIUM;Integrated Security=True";
+        string chuoiKetNoiSQL = @"Data Source=.\SQLMINHTUAN;Initial Catalog=ROBOTCITYSTADIUM;Integrated Security=True";
 
         /////////
         /// LOAD FORM LOGIN;

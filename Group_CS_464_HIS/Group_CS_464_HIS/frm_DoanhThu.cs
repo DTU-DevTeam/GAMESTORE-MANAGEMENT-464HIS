@@ -7,7 +7,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 namespace Group_CS_464_HIS
 {
-    public partial class frm_DoanhThu : Form
+    public partial class Frm_DoanhThu : Form
     {
         // Database connection
         private SqlConnection conn;
@@ -28,7 +28,7 @@ namespace Group_CS_464_HIS
         private Chart chartRevenue;
         private DataGridView dgvRevenue;
 
-        public frm_DoanhThu()
+        public Frm_DoanhThu()
         {
             InitializeComponent();
             SetupForm();

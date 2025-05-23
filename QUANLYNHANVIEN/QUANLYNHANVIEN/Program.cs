@@ -16,7 +16,7 @@ namespace QUANLYNHANVIEN
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_NhapLieuHD());
+            Application.Run(new Frm_NhapLieuHD());
         }
     }
 }

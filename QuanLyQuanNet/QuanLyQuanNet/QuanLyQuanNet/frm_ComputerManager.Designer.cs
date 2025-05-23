@@ -1,6 +1,6 @@
 ﻿namespace QuanLyQuanNet
 {
-    partial class frm_ComputerManager
+    partial class Frm_ComputerManager
     {
         /// <summary>
         /// Required designer variable.

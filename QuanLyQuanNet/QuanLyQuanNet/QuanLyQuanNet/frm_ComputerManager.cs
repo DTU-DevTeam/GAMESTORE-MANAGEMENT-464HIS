@@ -14,7 +14,7 @@ using System.Windows.Forms;
 
 namespace QuanLyQuanNet
 {
-    public partial class frm_ComputerManager : Form
+    public partial class Frm_ComputerManager : Form
     {
       /*  private Account loginAccount;
         public Account LoginAccount
@@ -23,7 +23,7 @@ namespace QuanLyQuanNet
             set { loginAccount = value; ChangeAccount(loginAccount.Type); }
         }*/
 
-        public frm_ComputerManager()
+        public Frm_ComputerManager()
         {
             InitializeComponent();
             //this.LoginAccount = acc;

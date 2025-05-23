@@ -46,6 +46,7 @@
             this.lb_THOAT = new System.Windows.Forms.Label();
             this.ms_QUANLY.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.grc_HOME)).BeginInit();
+            this.grc_HOME.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pb_SUPPORT)).BeginInit();
             this.SuspendLayout();
             // 
@@ -53,8 +54,10 @@
             // 
             this.ms_QUANLY.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.ms_QUANLY.AutoSize = false;
             this.ms_QUANLY.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ms_QUANLY.Dock = System.Windows.Forms.DockStyle.None;
+            this.ms_QUANLY.Font = new System.Drawing.Font("SVN-Russell", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ms_QUANLY.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.ms_QUANLY.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.menuToolStripMenuItem,
@@ -65,79 +68,81 @@
             this.khoToolStripMenuItem,
             this.nhânViênToolStripMenuItem,
             this.thốngKêToolStripMenuItem});
-            this.ms_QUANLY.Location = new System.Drawing.Point(446, 1);
+            this.ms_QUANLY.Location = new System.Drawing.Point(369, 1);
             this.ms_QUANLY.Name = "ms_QUANLY";
             this.ms_QUANLY.Padding = new System.Windows.Forms.Padding(10, 20, 10, 10);
-            this.ms_QUANLY.Size = new System.Drawing.Size(971, 59);
+            this.ms_QUANLY.Size = new System.Drawing.Size(1090, 81);
             this.ms_QUANLY.TabIndex = 0;
             this.ms_QUANLY.MouseHover += new System.EventHandler(this.ms_QUANLY_MouseHover);
             // 
             // menuToolStripMenuItem
             // 
-            this.menuToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuToolStripMenuItem.Font = new System.Drawing.Font("SVN-Russell", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.menuToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.menuToolStripMenuItem.Name = "menuToolStripMenuItem";
-            this.menuToolStripMenuItem.Size = new System.Drawing.Size(80, 29);
+            this.menuToolStripMenuItem.Size = new System.Drawing.Size(89, 51);
             this.menuToolStripMenuItem.Text = "Menu";
+            this.menuToolStripMenuItem.Click += new System.EventHandler(this.menuToolStripMenuItem_Click);
             // 
             // tìnhTrạngMáyToolStripMenuItem
             // 
-            this.tìnhTrạngMáyToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tìnhTrạngMáyToolStripMenuItem.Font = new System.Drawing.Font("SVN-Russell", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tìnhTrạngMáyToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.tìnhTrạngMáyToolStripMenuItem.Name = "tìnhTrạngMáyToolStripMenuItem";
-            this.tìnhTrạngMáyToolStripMenuItem.Size = new System.Drawing.Size(179, 29);
+            this.tìnhTrạngMáyToolStripMenuItem.Size = new System.Drawing.Size(205, 51);
             this.tìnhTrạngMáyToolStripMenuItem.Text = "Tình Trạng Máy";
             this.tìnhTrạngMáyToolStripMenuItem.Click += new System.EventHandler(this.tìnhTrạngMáyToolStripMenuItem_Click);
             // 
             // lịchSửToolStripMenuItem
             // 
-            this.lịchSửToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lịchSửToolStripMenuItem.Font = new System.Drawing.Font("SVN-Russell", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lịchSửToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.lịchSửToolStripMenuItem.Name = "lịchSửToolStripMenuItem";
-            this.lịchSửToolStripMenuItem.Size = new System.Drawing.Size(99, 29);
+            this.lịchSửToolStripMenuItem.Size = new System.Drawing.Size(111, 51);
             this.lịchSửToolStripMenuItem.Text = "Lịch Sử";
+            this.lịchSửToolStripMenuItem.Click += new System.EventHandler(this.lịchSửToolStripMenuItem_Click);
             // 
             // kháchHàngToolStripMenuItem
             // 
-            this.kháchHàngToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.kháchHàngToolStripMenuItem.Font = new System.Drawing.Font("SVN-Russell", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.kháchHàngToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.kháchHàngToolStripMenuItem.Name = "kháchHàngToolStripMenuItem";
-            this.kháchHàngToolStripMenuItem.Size = new System.Drawing.Size(145, 29);
+            this.kháchHàngToolStripMenuItem.Size = new System.Drawing.Size(161, 51);
             this.kháchHàngToolStripMenuItem.Text = "Khách Hàng";
             // 
             // khuyếnMãiToolStripMenuItem
             // 
-            this.khuyếnMãiToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.khuyếnMãiToolStripMenuItem.Font = new System.Drawing.Font("SVN-Russell", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.khuyếnMãiToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.khuyếnMãiToolStripMenuItem.Name = "khuyếnMãiToolStripMenuItem";
-            this.khuyếnMãiToolStripMenuItem.Size = new System.Drawing.Size(141, 29);
+            this.khuyếnMãiToolStripMenuItem.Size = new System.Drawing.Size(160, 51);
             this.khuyếnMãiToolStripMenuItem.Text = "Khuyến Mãi";
             this.khuyếnMãiToolStripMenuItem.Click += new System.EventHandler(this.khuyếnMãiToolStripMenuItem_Click);
             // 
             // khoToolStripMenuItem
             // 
-            this.khoToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.khoToolStripMenuItem.Font = new System.Drawing.Font("SVN-Russell", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.khoToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.khoToolStripMenuItem.Name = "khoToolStripMenuItem";
-            this.khoToolStripMenuItem.Size = new System.Drawing.Size(65, 29);
+            this.khoToolStripMenuItem.Size = new System.Drawing.Size(68, 51);
             this.khoToolStripMenuItem.Text = "Kho";
             this.khoToolStripMenuItem.Click += new System.EventHandler(this.khoToolStripMenuItem_Click);
             // 
             // nhânViênToolStripMenuItem
             // 
-            this.nhânViênToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nhânViênToolStripMenuItem.Font = new System.Drawing.Font("SVN-Russell", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.nhânViênToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
-            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(127, 29);
+            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(142, 51);
             this.nhânViênToolStripMenuItem.Text = "Nhân Viên";
             this.nhânViênToolStripMenuItem.Click += new System.EventHandler(this.nhânViênToolStripMenuItem_Click);
             // 
             // thốngKêToolStripMenuItem
             // 
-            this.thốngKêToolStripMenuItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.thốngKêToolStripMenuItem.Font = new System.Drawing.Font("SVN-Russell", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.thốngKêToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.thốngKêToolStripMenuItem.Name = "thốngKêToolStripMenuItem";
-            this.thốngKêToolStripMenuItem.Size = new System.Drawing.Size(121, 29);
+            this.thốngKêToolStripMenuItem.Size = new System.Drawing.Size(132, 51);
             this.thốngKêToolStripMenuItem.Text = "Thống Kê";
             // 
             // grc_HOME
@@ -157,7 +162,7 @@
             // pb_SUPPORT
             // 
             this.pb_SUPPORT.Image = ((System.Drawing.Image)(resources.GetObject("pb_SUPPORT.Image")));
-            this.pb_SUPPORT.Location = new System.Drawing.Point(1714, 723);
+            this.pb_SUPPORT.Location = new System.Drawing.Point(1691, 724);
             this.pb_SUPPORT.Name = "pb_SUPPORT";
             this.pb_SUPPORT.Size = new System.Drawing.Size(164, 169);
             this.pb_SUPPORT.TabIndex = 5;
@@ -169,11 +174,11 @@
             // 
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("SVN-Russell", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Gold;
-            this.label1.Location = new System.Drawing.Point(486, 426);
+            this.label1.Location = new System.Drawing.Point(481, 423);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(837, 84);
+            this.label1.Size = new System.Drawing.Size(902, 90);
             this.label1.TabIndex = 0;
             this.label1.Text = "- Mừng Xuân Ất Tỵ - Tặng 500% Giá Trị Nạp -\r\nThời gian: đến hết ngày 30 tháng 05 " +
     "năm 2025";
@@ -183,11 +188,11 @@
             // 
             this.lb_DIACHI.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lb_DIACHI.AutoSize = true;
-            this.lb_DIACHI.Font = new System.Drawing.Font("Microsoft Sans Serif", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_DIACHI.Font = new System.Drawing.Font("SVN-Russell", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_DIACHI.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lb_DIACHI.Location = new System.Drawing.Point(25, 817);
+            this.lb_DIACHI.Location = new System.Drawing.Point(14, 820);
             this.lb_DIACHI.Name = "lb_DIACHI";
-            this.lb_DIACHI.Size = new System.Drawing.Size(697, 42);
+            this.lb_DIACHI.Size = new System.Drawing.Size(713, 45);
             this.lb_DIACHI.TabIndex = 0;
             this.lb_DIACHI.Text = "178 Nguyễn Tri Phương - TP. Đà Nẵng";
             this.lb_DIACHI.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -195,24 +200,24 @@
             // lb_NAME
             // 
             this.lb_NAME.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.lb_NAME.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_NAME.Font = new System.Drawing.Font("Perfect Dark (BRK)", 72F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_NAME.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lb_NAME.Location = new System.Drawing.Point(430, 102);
+            this.lb_NAME.Location = new System.Drawing.Point(416, 103);
             this.lb_NAME.Name = "lb_NAME";
-            this.lb_NAME.Size = new System.Drawing.Size(1116, 362);
+            this.lb_NAME.Size = new System.Drawing.Size(1116, 293);
             this.lb_NAME.TabIndex = 0;
             this.lb_NAME.Text = "ROBOT CITY STADIUM";
             this.lb_NAME.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lb_THOAT
             // 
-            this.lb_THOAT.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_THOAT.Font = new System.Drawing.Font("SVN-Russell", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_THOAT.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.lb_THOAT.Image = ((System.Drawing.Image)(resources.GetObject("lb_THOAT.Image")));
             this.lb_THOAT.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.lb_THOAT.Location = new System.Drawing.Point(12, 9);
             this.lb_THOAT.Name = "lb_THOAT";
-            this.lb_THOAT.Size = new System.Drawing.Size(126, 51);
+            this.lb_THOAT.Size = new System.Drawing.Size(123, 51);
             this.lb_THOAT.TabIndex = 6;
             this.lb_THOAT.Text = "THOÁT";
             this.lb_THOAT.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -243,9 +248,10 @@
             this.ms_QUANLY.ResumeLayout(false);
             this.ms_QUANLY.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.grc_HOME)).EndInit();
+            this.grc_HOME.ResumeLayout(false);
+            this.grc_HOME.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pb_SUPPORT)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 

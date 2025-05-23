@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace QUANLYNHANVIEN
 {
-    public partial class frm_NhapLieuHD : Form
+    public partial class Frm_NhapLieuHD : Form
     {
         lopchung lopdungchung = new lopchung();
 
-        public frm_NhapLieuHD()
+        public Frm_NhapLieuHD()
         {
             InitializeComponent();
         }
