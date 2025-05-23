@@ -123,8 +123,7 @@ namespace QuanLyQuanNet
 
         private void adminToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frm_Admin f = new frm_Admin();
-            f.ShowDialog();
+           
         }
         private void cbCategory_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -184,8 +183,12 @@ namespace QuanLyQuanNet
             }
         }
 
+
         #endregion
 
+        private void flpTable_Paint(object sender, PaintEventArgs e)
+        {
 
+        }
     }
 }

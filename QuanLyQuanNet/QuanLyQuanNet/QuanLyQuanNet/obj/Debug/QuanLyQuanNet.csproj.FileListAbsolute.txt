@@ -2,7 +2,6 @@ C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Deb
 C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe
 C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.pdb
 C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.AssemblyReference.cache
-C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.frm_Admin.resources
 C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.frm_ComputerManager.resources
 C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.Properties.Resources.resources
 C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.GenerateResource.cache
