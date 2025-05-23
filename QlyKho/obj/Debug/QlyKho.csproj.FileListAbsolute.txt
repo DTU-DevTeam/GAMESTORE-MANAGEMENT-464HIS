@@ -1,0 +1,14 @@
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\bin\Debug\QlyKho.exe.config
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\bin\Debug\QlyKho.exe
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\bin\Debug\QlyKho.pdb
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\obj\Debug\QlyKho.csproj.AssemblyReference.cache
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\obj\Debug\QlyKho.Properties.Resources.resources
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\obj\Debug\QlyKho.csproj.GenerateResource.cache
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\obj\Debug\QlyKho.csproj.CoreCompileInputs.cache
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\obj\Debug\QlyKho.exe
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\obj\Debug\QlyKho.pdb
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\obj\Debug\QlyKho.frm_Kho.resources
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\obj\Debug\QlyKho.frm_PhieuNhapMoi.resources
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\obj\Debug\QlyKho.frm_XemChiTiet.resources
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\bin\Debug\KHO.mdf
+D:\CMU-CS 464 HIS\QlyKho\QlyKho\bin\Debug\KHO_log.ldf
