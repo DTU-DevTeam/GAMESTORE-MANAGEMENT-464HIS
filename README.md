@@ -2,6 +2,15 @@
 
 > Cung cấp các **lệnh SQL dành cho Admin** để quản lý tài khoản trong hệ thống GameStore, bao gồm: tạo bảng, thêm tài khoản với bảo mật SHA-256 + SALT, và kiểm tra đăng nhập.
 > LƯU Ý: TẢI VÀ INSTALL CÁC FONT CHỮ CÓ TRONG THƯ MỤC /fonts TRONG DỰ ÁN.
+
+> CÁCH THAY ĐỔI CẤU HÌNH ĐỂ CHẠY DỰ ÁN:
+
+1. Tải font chữ đã được đính kèm trong thư mục /fonts.
+
+2. Thay đổi chuỗi kết nối đến Database.
+
+3. Vào dự án "GameStoreManagement_PROJECT_v1.0" -> CHUỘT PHẢI VÀO THƯ MỤC PROPERTIES -> ADD PROPERTIES -> PROJECT -> TÍCH CHỌN TẤT CẢ DỰ ÁN -> CHẠY DỰ ÁN "GameStoreManagement_PROJECT_v1.0".
+
 ---
 
 ## 📁 1. Tạo Bảng Tài Khoản `ACCOUNT_STORE`
@@ -16,6 +25,7 @@ CREATE TABLE ACCOUNT_STORE (
     NgayTao DATETIME DEFAULT GETDATE()
 );
 ```
+
 ## ➕ 2. Tạo Tài Khoản Mới (SHA-256 + SALT)
 
 👤 Tạo tài khoản Admin:
