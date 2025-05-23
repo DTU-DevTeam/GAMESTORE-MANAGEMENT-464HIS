@@ -1,0 +1,64 @@
+﻿CREATE DATABASE QuanLyQuanNet
+GO
+
+USE QuanLyQuanNet
+GO
+
+CREATE TABLE Mayfood
+(
+	id INT IDENTITY PRIMARY KEY,
+	ten NVARCHAR(100)  NOT NULL DEFAULT N'Máy Trống',
+	status NVARCHAR(100)  NOT NULL DEFAULT N'Trống'-- CÒN MÓN || HẾT MÓN
+)
+GO
+
+CREATE TABLE Account
+(
+	UserName NVARCHAR(100) PRIMARY KEY,
+	DisplayTen NVARCHAR(100) NOT NULL DEFAULT N'Kter',
+	PassWord NVARCHAR(1000) NOT NULL DEFAULT 0,
+	Type INT NOT NULL DEFAULT 0
+)
+GO
+
+CREATE TABLE FoodCategory
+(
+	id INT IDENTITY PRIMARY KEY,
+	ten NVARCHAR(100)  NOT NULL DEFAULT N'Chưa Đặt Tên',
+)
+GO
+
+CREATE TABLE Food
+(
+	id INT IDENTITY PRIMARY KEY,
+	ten NVARCHAR(100)  NOT NULL DEFAULT N'Chưa Đặt Tên',
+	idCategory INT  NOT NULL,
+	price FLOAT  NOT NULL DEFAULT 0
+
+	FOREIGN KEY (idCategory) REFERENCES dbo.FoodCategory(id)
+)
+GO
+
+CREATE TABLE Bill
+(
+	id INT IDENTITY PRIMARY KEY,
+	DateCheckIn DATE NOT NULL DEFAULT GETDATE(),
+	DataCheckOut DATE,
+	idComputer INT NOT NULL,
+	status INT NOT NULL DEFAULT 0 --1:đã thanh toán && 0: chưa thanh toán
+
+	FOREIGN KEY (idComputer) REFERENCES dbo.Mayfood(id)
+)
+GO
+
+CREATE TABLE BillInfo
+(
+	id INT IDENTITY PRIMARY KEY,
+	idBill int NOT NULL,
+	idFood INT NOT NULL,
+	count INT NOT NULL DEFAULT 0
+
+	FOREIGN KEY (idBill) REFERENCES dbo.Bill(id),
+	FOREIGN KEY (idFood) REFERENCES dbo.Food(id)
+)
+GO

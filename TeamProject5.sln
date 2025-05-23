@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStoreManagement_PROJECT_v1.0", "GameStoreManagement_PROJECT_v1.0\GameStoreManagement_PROJECT_v1.0.csproj", "{7BB2D1DD-C295-4F8B-A529-B4D0543621D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group_CS_464_HIS", "Group_CS_464_HIS\Group_CS_464_HIS\Group_CS_464_HIS.csproj", "{41DEBEFF-1AF4-4381-82F7-5D98ED3277C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyQuanNet", "QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet.csproj", "{143938C5-877A-4D7A-AB84-078B42CE63B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsGiamGia", "WindowsFormsGiamGia\WindowsFormsGiamGia.csproj", "{7CBA87FB-1B7D-4DCE-AA72-1A986525EB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUANLYNHANVIEN", "QUANLYNHANVIEN\QUANLYNHANVIEN\QUANLYNHANVIEN.csproj", "{E4AEB6EB-1815-4465-9EE3-3598A8862087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QlyKho", "MANAGEMENTSTORE\QlyKho\QlyKho.csproj", "{65D55F09-05B0-48CC-9820-D7FF17183001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB2D1DD-C295-4F8B-A529-B4D0543621D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB2D1DD-C295-4F8B-A529-B4D0543621D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB2D1DD-C295-4F8B-A529-B4D0543621D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB2D1DD-C295-4F8B-A529-B4D0543621D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41DEBEFF-1AF4-4381-82F7-5D98ED3277C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DEBEFF-1AF4-4381-82F7-5D98ED3277C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DEBEFF-1AF4-4381-82F7-5D98ED3277C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DEBEFF-1AF4-4381-82F7-5D98ED3277C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143938C5-877A-4D7A-AB84-078B42CE63B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143938C5-877A-4D7A-AB84-078B42CE63B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143938C5-877A-4D7A-AB84-078B42CE63B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143938C5-877A-4D7A-AB84-078B42CE63B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBA87FB-1B7D-4DCE-AA72-1A986525EB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBA87FB-1B7D-4DCE-AA72-1A986525EB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBA87FB-1B7D-4DCE-AA72-1A986525EB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBA87FB-1B7D-4DCE-AA72-1A986525EB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AEB6EB-1815-4465-9EE3-3598A8862087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AEB6EB-1815-4465-9EE3-3598A8862087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AEB6EB-1815-4465-9EE3-3598A8862087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AEB6EB-1815-4465-9EE3-3598A8862087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D55F09-05B0-48CC-9820-D7FF17183001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D55F09-05B0-48CC-9820-D7FF17183001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D55F09-05B0-48CC-9820-D7FF17183001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D55F09-05B0-48CC-9820-D7FF17183001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A93ABD01-9EBA-4D05-9630-810DEBEADB55}
+	EndGlobalSection
+EndGlobal
