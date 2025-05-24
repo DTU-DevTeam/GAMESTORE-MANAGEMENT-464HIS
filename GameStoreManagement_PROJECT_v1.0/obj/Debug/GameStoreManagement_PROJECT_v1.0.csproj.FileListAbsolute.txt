@@ -1,0 +1,205 @@
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.exe.config
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.AssemblyReference.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_LOGIN.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Properties.Resources.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.GenerateResource.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.CoreCompileInputs.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TeamProject5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Drawing.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Utils.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraBars.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStor.9936CE4A.Up2Date
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\bin\Debug\Guna.UI2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_REGISTER.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\TEAMPROJECT5\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_HOME.resources
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GROUP.mdf
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GROUP_log.ldf
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\KHO.mdf
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\KHO_log.ldf
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLNV.mdf
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLNV_log.ldf
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLTiemNet.mdf
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLTiemNet_log.ldf
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.exe.config
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.exe
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.pdb
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Group_CS_464_HIS.exe
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Guna.UI2.dll
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QlyKho.exe
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QUANLYNHANVIEN.exe
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QuanLyQuanNet.exe
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\WindowsFormsApp1.exe
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Group_CS_464_HIS.pdb
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Group_CS_464_HIS.exe.config
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QlyKho.pdb
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QlyKho.exe.config
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QUANLYNHANVIEN.pdb
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QUANLYNHANVIEN.exe.config
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QuanLyQuanNet.pdb
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QuanLyQuanNet.exe.config
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\WindowsFormsApp1.pdb
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\WindowsFormsApp1.exe.config
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.v24.2.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Drawing.v24.2.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Utils.v24.2.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraBars.v24.2.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.AssemblyReference.cache
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_HOME.resources
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_LOGIN.resources
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_REGISTER.resources
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Properties.Resources.resources
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.GenerateResource.cache
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.CoreCompileInputs.cache
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStor.9936CE4A.Up2Date
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.exe
+C:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GROUP.mdf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GROUP_log.ldf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\KHO.mdf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\KHO_log.ldf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLNV.mdf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLNV_log.ldf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLTiemNet.mdf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLTiemNet_log.ldf
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.exe.config
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Drawing.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Utils.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraBars.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Group_CS_464_HIS.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Guna.UI2.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QlyKho.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QUANLYNHANVIEN.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QuanLyQuanNet.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\WindowsFormsApp1.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Group_CS_464_HIS.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Group_CS_464_HIS.exe.config
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QlyKho.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QlyKho.exe.config
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QUANLYNHANVIEN.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QUANLYNHANVIEN.exe.config
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QuanLyQuanNet.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QuanLyQuanNet.exe.config
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\WindowsFormsApp1.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\WindowsFormsApp1.exe.config
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.AssemblyReference.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_HOME.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_LOGIN.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_REGISTER.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Properties.Resources.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.GenerateResource.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.CoreCompileInputs.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStor.9936CE4A.Up2Date
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_MENU.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\QlyLichSu.Frm_LS_MuaHang.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\QlyLichSu.Frm_LS_ThanhToan.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GROUP.mdf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GROUP_log.ldf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\KHO.mdf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\KHO_log.ldf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLNV.mdf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLNV_log.ldf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLTiemNet.mdf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLTiemNet_log.ldf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.exe.config
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\GameStoreManagement_PROJECT_v1.0.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Group_CS_464_HIS.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Guna.UI2.dll
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QlyKho.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QUANLYNHANVIEN.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QuanLyQuanNet.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\WindowsFormsApp1.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Group_CS_464_HIS.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Group_CS_464_HIS.exe.config
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QlyKho.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QlyKho.exe.config
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QUANLYNHANVIEN.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QUANLYNHANVIEN.exe.config
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QuanLyQuanNet.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QuanLyQuanNet.exe.config
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\WindowsFormsApp1.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\WindowsFormsApp1.exe.config
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Data.v24.2.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.AssemblyReference.cache
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_HOME.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_LOGIN.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_MENU.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\QlyLichSu.Frm_LS_MuaHang.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Frm_REGISTER.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\QlyLichSu.Frm_LS_ThanhToan.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1._0.Properties.Resources.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.GenerateResource.cache
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.csproj.CoreCompileInputs.cache
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStor.9936CE4A.Up2Date
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\obj\Debug\GameStoreManagement_PROJECT_v1.0.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\Picture\RobotCity_Stadium_Logo.png
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\USER.mdf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\USER_log.ldf
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLyKhachHang.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLyKhachHang.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\GameStoreManagement_PROJECT_v1.0\bin\Debug\QLyKhachHang.exe.config

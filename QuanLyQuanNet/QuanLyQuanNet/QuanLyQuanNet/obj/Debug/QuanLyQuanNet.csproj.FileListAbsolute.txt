@@ -1,0 +1,30 @@
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe.config
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.pdb
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.AssemblyReference.cache
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.frm_ComputerManager.resources
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.Properties.Resources.resources
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.GenerateResource.cache
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.CoreCompileInputs.cache
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.exe
+C:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe.config
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.pdb
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.AssemblyReference.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.frm_ComputerManager.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.Properties.Resources.resources
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.GenerateResource.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.CoreCompileInputs.cache
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.exe
+D:\Software DTU\2024-2025 COURSES\CMU-CS 464 HIS\VS2022\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe.config
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.pdb
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.AssemblyReference.cache
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.Frm_ComputerManager.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.Properties.Resources.resources
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.GenerateResource.cache
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.CoreCompileInputs.cache
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.exe
+D:\GAMESTORE-MANAGEMENT-464HIS\QuanLyQuanNet\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.pdb
