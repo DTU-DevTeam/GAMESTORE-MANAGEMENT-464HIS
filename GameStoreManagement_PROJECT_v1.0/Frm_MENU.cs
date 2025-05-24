@@ -55,6 +55,12 @@ namespace GameStoreManagement_PROJECT_v1._0
             listPanel.Add(pn_COMMY);
             listPanel.Add(pn_THUOCLA);
 
+            pn_DUPC.Tag = "Đồ uống pha chế";
+            pn_DODC.Tag = "Đồ uống đóng chai";
+            pn_DOANVAT.Tag = "Đồ ăn vặt";
+            pn_COMMY.Tag = "Cơm mỳ";
+            pn_THUOCLA.Tag = "Thuốc lá";
+
             // Ẩn hết các panel trước;
             foreach (var pnl in listPanel)
             {
@@ -148,6 +154,46 @@ namespace GameStoreManagement_PROJECT_v1._0
         private void btn_THUOCLA_Click(object sender, EventArgs e)
         {
             ShowPanel(4); // Hiển thị thuốc lá;
+        }
+
+        private void btn_SEARCH_Click(object sender, EventArgs e)
+        {
+            string tuTimKiem = txt_SEARCH.Text.Trim().ToLower();
+
+            if (string.IsNullOrEmpty(tuTimKiem))
+            {
+                // Nếu từ khóa rỗng, hiển thị panel hiện tại;
+                ShowPanel(index);
+                return;
+            }
+
+            bool timKiem = false;
+
+            for (int i = 0; i < listPanel.Count; i++)
+            {
+                Panel pn = listPanel[i];
+
+                foreach (Control ctrl in pn.Controls)
+                {
+                    if (ctrl is GroupBox groupBox)
+                    {
+                        if (groupBox.Text.ToLower().Contains(tuTimKiem))
+                        {
+                            ShowPanel(i);
+                            timKiem = true;
+                            break;
+                        }
+                    }
+                }
+
+                if (timKiem)
+                    break;
+            }
+
+            if (!timKiem)
+            {
+                MessageBox.Show("Không tìm thấy sản phẩm phù hợp!", "Tìm kiếm", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
     }
 }

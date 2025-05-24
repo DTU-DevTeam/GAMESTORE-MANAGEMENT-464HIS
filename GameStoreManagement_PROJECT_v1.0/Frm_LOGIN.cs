@@ -269,6 +269,7 @@ namespace GameStoreManagement_PROJECT_v1._0
                         {
                             Frm_HOME frm_HOME = new Frm_HOME();
                             frm_HOME.FormClosed += (s, args) => this.Close();
+                            frm_HOME.VaiTroHienTai = role;
                             frm_HOME.Show();
                             this.Hide();
                         }
@@ -290,6 +291,7 @@ namespace GameStoreManagement_PROJECT_v1._0
                         // Bổ sung code MAIN: mở form HOME;
                         Frm_HOME frm_HOME = new Frm_HOME();
                         frm_HOME.FormClosed += (s, args) => this.Close();
+                        frm_HOME.VaiTroHienTai = role;
                         frm_HOME.Show();
                         this.Hide();
                     }

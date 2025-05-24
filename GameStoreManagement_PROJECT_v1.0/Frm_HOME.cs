@@ -1,4 +1,5 @@
 ﻿using QlyKho;
+using QlyLichSu;
 using QUANLYNHANVIEN;
 using QuanLyQuanNet;
 using System;
@@ -18,6 +19,8 @@ namespace GameStoreManagement_PROJECT_v1._0
 {
     public partial class Frm_HOME : Form
     {
+        public string VaiTroHienTai { get; set; }
+
         // Fix lỗi tránh bị DPI kh phù hợp với các máy tính khácl;
         public Frm_HOME()
         {
@@ -37,6 +40,31 @@ namespace GameStoreManagement_PROJECT_v1._0
             lb_THOAT.BackColor = Color.Transparent;
 
             grc_HOME.BackColor = Color.Transparent;
+
+            // Kiểm tra vai trò để ẩn Kho, Nhân Viên, THống kê;
+            if (!string.IsNullOrEmpty(VaiTroHienTai) && VaiTroHienTai.Equals("Nhân Viên", StringComparison.OrdinalIgnoreCase))
+            {
+                TatVungChon(khoToolStripMenuItem);
+                TatVungChon(nhânViênToolStripMenuItem);
+                TatVungChon(thốngKêToolStripMenuItem);
+            }
+        }
+
+        // Hàm DisableMenuItem để disable và đổi cursor;
+        private void TatVungChon(ToolStripMenuItem vungChon)
+        {
+            vungChon.Enabled = false;
+
+            vungChon.MouseEnter += (s, e) =>
+            {
+                this.Cursor = Cursors.Default;
+            };
+            vungChon.MouseLeave += (s, e) =>
+            {
+                this.Cursor = Cursors.Default;
+            };
+
+            vungChon.Click += (s, e) => e = null;
         }
 
         // Gọi lại sự kiện PAINT khi form được hiển thị;
@@ -168,7 +196,8 @@ namespace GameStoreManagement_PROJECT_v1._0
         private Frm_Kho frmKho = null;
         private Frm_NhapLieuHD frmNhapLieuHD = null;
         private Frm_MENU frmMenu = null;
-        private Frm_LICHSU FrmLichSu = null;
+        private Frm_LS_MuaHang frmLSMH = null;
+        private Frm_LS_ThanhToan frmLSTT = null;
 
         private void tìnhTrạngMáyToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -240,18 +269,37 @@ namespace GameStoreManagement_PROJECT_v1._0
             }
         }
 
-        private void lịchSửToolStripMenuItem_Click(object sender, EventArgs e)
+        private void lịchSửMuaHàngToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (FrmLichSu == null || FrmLichSu.IsDisposed)
+            if (frmLSMH == null || frmLSMH.IsDisposed)
             {
-                FrmLichSu = new Frm_LICHSU();
-                FrmLichSu.Show();
+                frmLSMH = new Frm_LS_MuaHang();
+                frmLSMH.Show();
             }
             else
             {
-                FrmLichSu.BringToFront();
-                FrmLichSu.Focus();
+                frmLSMH.BringToFront();
+                frmLSMH.Focus();
             }
+        }
+
+        private void lịchSửThanhToánToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (frmLSTT == null || frmLSTT.IsDisposed)
+            {
+                frmLSTT = new Frm_LS_ThanhToan();
+                frmLSTT.Show();
+            }
+            else
+            {
+                frmLSTT.BringToFront();
+                frmLSTT.Focus();
+            }
+        }
+
+        private void lịchSửToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

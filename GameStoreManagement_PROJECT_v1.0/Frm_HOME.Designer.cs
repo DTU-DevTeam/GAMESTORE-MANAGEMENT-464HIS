@@ -33,6 +33,8 @@
             this.menuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tìnhTrạngMáyToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lịchSửToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.lịchSửMuaHàngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.lịchSửThanhToánToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.kháchHàngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.khuyếnMãiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.khoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -95,12 +97,29 @@
             // 
             // lịchSửToolStripMenuItem
             // 
+            this.lịchSửToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.lịchSửMuaHàngToolStripMenuItem,
+            this.lịchSửThanhToánToolStripMenuItem});
             this.lịchSửToolStripMenuItem.Font = new System.Drawing.Font("SVN-Russell", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lịchSửToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.lịchSửToolStripMenuItem.Name = "lịchSửToolStripMenuItem";
             this.lịchSửToolStripMenuItem.Size = new System.Drawing.Size(111, 51);
             this.lịchSửToolStripMenuItem.Text = "Lịch Sử";
             this.lịchSửToolStripMenuItem.Click += new System.EventHandler(this.lịchSửToolStripMenuItem_Click);
+            // 
+            // lịchSửMuaHàngToolStripMenuItem
+            // 
+            this.lịchSửMuaHàngToolStripMenuItem.Name = "lịchSửMuaHàngToolStripMenuItem";
+            this.lịchSửMuaHàngToolStripMenuItem.Size = new System.Drawing.Size(310, 32);
+            this.lịchSửMuaHàngToolStripMenuItem.Text = "Lịch sử mua hàng";
+            this.lịchSửMuaHàngToolStripMenuItem.Click += new System.EventHandler(this.lịchSửMuaHàngToolStripMenuItem_Click);
+            // 
+            // lịchSửThanhToánToolStripMenuItem
+            // 
+            this.lịchSửThanhToánToolStripMenuItem.Name = "lịchSửThanhToánToolStripMenuItem";
+            this.lịchSửThanhToánToolStripMenuItem.Size = new System.Drawing.Size(310, 32);
+            this.lịchSửThanhToánToolStripMenuItem.Text = "Lịch sử thanh toán";
+            this.lịchSửThanhToánToolStripMenuItem.Click += new System.EventHandler(this.lịchSửThanhToánToolStripMenuItem_Click);
             // 
             // kháchHàngToolStripMenuItem
             // 
@@ -272,5 +291,7 @@
         private System.Windows.Forms.PictureBox pb_SUPPORT;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lb_THOAT;
+        private System.Windows.Forms.ToolStripMenuItem lịchSửMuaHàngToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem lịchSửThanhToánToolStripMenuItem;
     }
 }

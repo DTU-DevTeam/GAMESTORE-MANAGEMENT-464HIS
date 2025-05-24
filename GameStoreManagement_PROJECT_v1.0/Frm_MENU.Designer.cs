@@ -414,6 +414,7 @@
             this.btn_SEARCH.Size = new System.Drawing.Size(58, 54);
             this.btn_SEARCH.TabIndex = 8;
             this.btn_SEARCH.UseVisualStyleBackColor = false;
+            this.btn_SEARCH.Click += new System.EventHandler(this.btn_SEARCH_Click);
             // 
             // txt_SEARCH
             // 
@@ -452,6 +453,7 @@
             this.pn_DUPC.Name = "pn_DUPC";
             this.pn_DUPC.Size = new System.Drawing.Size(1217, 610);
             this.pn_DUPC.TabIndex = 7;
+            this.pn_DUPC.Tag = "";
             // 
             // groupBox10
             // 

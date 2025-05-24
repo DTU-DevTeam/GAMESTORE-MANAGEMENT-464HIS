@@ -64,12 +64,6 @@
     <Compile Include="Frm_HOME.Designer.cs">
       <DependentUpon>Frm_HOME.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_LICHSU.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Frm_LICHSU.Designer.cs">
-      <DependentUpon>Frm_LICHSU.cs</DependentUpon>
-    </Compile>
     <Compile Include="Frm_LOGIN.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,19 +76,28 @@
     <Compile Include="Frm_MENU.Designer.cs">
       <DependentUpon>Frm_MENU.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_LS_MuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_LS_MuaHang.Designer.cs">
+      <DependentUpon>Frm_LS_MuaHang.cs</DependentUpon>
+    </Compile>
     <Compile Include="Frm_REGISTER.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Frm_REGISTER.Designer.cs">
       <DependentUpon>Frm_REGISTER.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_LS_ThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_LS_ThanhToan.Designer.cs">
+      <DependentUpon>Frm_LS_ThanhToan.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Frm_HOME.resx">
       <DependentUpon>Frm_HOME.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Frm_LICHSU.resx">
-      <DependentUpon>Frm_LICHSU.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_LOGIN.resx">
       <DependentUpon>Frm_LOGIN.cs</DependentUpon>
@@ -102,8 +105,14 @@
     <EmbeddedResource Include="Frm_MENU.resx">
       <DependentUpon>Frm_MENU.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Frm_LS_MuaHang.resx">
+      <DependentUpon>Frm_LS_MuaHang.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Frm_REGISTER.resx">
       <DependentUpon>Frm_REGISTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_LS_ThanhToan.resx">
+      <DependentUpon>Frm_LS_ThanhToan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
